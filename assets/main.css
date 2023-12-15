@@ -78,7 +78,7 @@
     top:1vh;
     width: 82vw;
     height: 41vw;
-    background-image: url('./img/map.jpg');
+    background-image: url('https://drive.google.com/file/d/1hhnX8ZifnVyBHAUOrJy794m8N5liAulW/view?usp=drive_link');
     background-size: auto 100%;
     background-repeat: no-repeat;
     background-position-x: 50%;
@@ -91,6 +91,7 @@
     transform: translateX(-50%);
     height: 41vw;
 }
+#con
 #container .dinhvi{
     color: rgb(255, 0, 0);
     position: absolute;
